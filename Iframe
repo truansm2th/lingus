@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+   <head></head>
+   <body>
+      <h1>
+        Dashboard
+        'iframe' Tag: goldvisioncrm
+      </h1>
+      <iframe is="x-frame-bypass" src="https://markdemoca.goldvisioncrm.com/dashboards/1" 
+              height="750px" width="1500px"></iframe>
+      </iframe>
+   </body>
+</html>
